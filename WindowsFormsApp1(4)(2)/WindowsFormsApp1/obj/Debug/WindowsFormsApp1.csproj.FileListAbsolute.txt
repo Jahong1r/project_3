@@ -1,0 +1,66 @@
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(3)(2-3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(3)(2-3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(3)(2-3)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(3)(2-3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(3)(2-3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(3)(2-3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(3)(2-3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(3)(2-3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(3)(2-3)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Лабы\C#\3курсООП\Лаба1.вариант4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Пользователь\Desktop\С# Programms\WindowsFormsApp1(4)(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Пользователь\Desktop\С# Programms\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Пользователь\Desktop\С# Programms\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Пользователь\Desktop\С# Programms\WindowsFormsApp1(4)(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Пользователь\Desktop\С# Programms\WindowsFormsApp1(4)(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Пользователь\Desktop\С# Programms\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\С# Programms\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Пользователь\Desktop\С# Programms\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\С# Programms\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\Users\Ксюша\Desktop\КАИ\3 КУРС\Конструирование и проектирование программ\LR\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\Users\Ксюша\Desktop\КАИ\3 КУРС\Конструирование и проектирование программ\LR\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Users\Ксюша\Desktop\КАИ\3 КУРС\Конструирование и проектирование программ\LR\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\Users\Ксюша\Desktop\КАИ\3 КУРС\Конструирование и проектирование программ\LR\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\Users\Ксюша\Desktop\КАИ\3 КУРС\Конструирование и проектирование программ\LR\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\Users\Ксюша\Desktop\КАИ\3 КУРС\Конструирование и проектирование программ\LR\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Users\Ксюша\Desktop\КАИ\3 КУРС\Конструирование и проектирование программ\LR\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\Users\Ксюша\Desktop\КАИ\3 КУРС\Конструирование и проектирование программ\LR\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Users\Ксюша\Desktop\КАИ\3 КУРС\Конструирование и проектирование программ\LR\LABR 4\WindowsFormsApp1(4)(2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
